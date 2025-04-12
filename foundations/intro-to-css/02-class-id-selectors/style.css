@@ -1,0 +1,28 @@
+.num1 {
+    color: black;
+    background-color: lightcoral;   
+}
+
+#num2 {
+    color: blue;
+    font-size: 46px;
+}
+
+.num3 {
+    color: black;
+    background-color: lightcoral;
+    font-size:35px;
+}
+
+#num4 {
+    color: black;
+    font-size: 37px;
+    background-color: greenyellow;
+    font-weight: bold;
+}
+
+.num5 {
+    color: black;
+    background-color: lightcoral;
+    font-size: 35px;
+}
